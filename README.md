@@ -1,22 +1,46 @@
-# reading-notes
-### Core: Lab: 01 - Learning Markdown
+# reading-notes 
+## Lab: 01 - Learning Markdown
 
 ✅ https://jonathanalbertcross.github.io/reading-notes/
 
-✅ The “source” for your site should be a README.md file, written with Markdown
+✅ The “source” for the site is a README.md file, written with Markdown (see below)
 
 ### **Growth Mindset**
+What is it?
 
-Growth mindset or, in simplier terms, is a love of learning. It follows the basic fundementals of stoicism: perseverance and effort. There are two types of mindsets; fixed and growth mindset. 
+> Growth mindset or, in simplier terms, is a love of learning. It follows the basic fundementals of stoicism: perseverance and effort. There are two types of mindsets; fixed and growth mindset.`
 
-### **Include 3 reminders to yourself of how to keep yourself in a growth mindset** 
+| Fixed          |  | Growth |
+|:--- | :----:  |---:|
+| Avoids      | **Challenges**  |Embraces    |
+| Loses Focus |**Obstacles**    |Persists     |
+| Views fruitless   |**Effort**  |Try again    |
+| Ignores   |**Criticism**      |Learns from      |
+| Views as a threat   |**Success of Others**      |Is inspired by       |
 
-    - Accept that mistakes are part of the learning process.
-    - Be patient
-    - Celebrate growth wherever I see it.
+### **Reminders of Growth Mindset**...
 
-### **Utilize at least 5 different features of Markdown to structure your page**✅
+- Accept that mistakes are part of the learning process.
+- Be patient.
+- Celebrate growth wherever I see it.
+
+### **5 different features of Markdown**
+- Headers
+- Lists
+- blockquotes
+- Emoji
+- Images
+- Tables
+
+###  **About Me**
+There are lots of things that spark joy, but my main hobbies are open-water swimming, classical music (Wagner etc) and exploring the world of foreign novels (Kafka, Duras, Kundera etc). 
+
+<img width="381" alt="Buttermere" src="https://github.com/JonathanAlbertCross/reading-notes/assets/118997615/932dbb47-8f40-46f3-a183-826b403eac3c">
+
+*Swimming in Butteremere*
+
+<img width="381" alt="Swim" src="https://i.ibb.co/93W8sY4/Col-Coniston-Epic02703.jpg" border="0">
+
+*Swim race in Coniston*
 
 
-###  **Be sure to introduce yourself, and include a link to your GitHub portfolio page**✅
-![IMG_0468](https://github.com/JonathanAlbertCross/reading-notes/assets/118997615/92893181-e796-4e1b-9410-9c5821e92ac6)
