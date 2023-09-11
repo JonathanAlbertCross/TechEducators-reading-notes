@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My First Page
+title: Tech Educators
 ---
 
 # reading-notes 
