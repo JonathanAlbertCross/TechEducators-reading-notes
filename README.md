@@ -1,6 +1,6 @@
 ---
-title: My First Page
 layout: default
+title: My First Page
 ---
 
 # reading-notes 
