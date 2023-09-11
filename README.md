@@ -19,4 +19,5 @@ Growth mindset or, in simplier terms, is a love of learning. It follows the basi
 3.  **Utilize at least 5 different features of Markdown to structure your page**✅
 
   
-4.  **Be sure to introduce yourself, and include a link to your GitHub portfolio page**
+4.  **Be sure to introduce yourself, and include a link to your GitHub portfolio page**✅
+5.  
