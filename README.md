@@ -1,3 +1,8 @@
+---
+title: My First Page
+layout: default
+---
+
 # reading-notes 
 ## Lab: 01 - Learning Markdown
 
