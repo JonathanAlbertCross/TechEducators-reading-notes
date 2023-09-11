@@ -17,7 +17,8 @@ The “source” for your site should be a README.md file, written with Markdown
     - Celebrate growth wherever I see it.
 
 3.  **Utilize at least 5 different features of Markdown to structure your page**✅
-https://ibb.co/MG1Js00
+!# https://ibb.co/MG1Js00
+![My Remote Image](https://ibb.co/MG1Js00)
   
-4.  **Be sure to introduce yourself, and include a link to your GitHub portfolio page**✅
+5.  **Be sure to introduce yourself, and include a link to your GitHub portfolio page**✅
    
