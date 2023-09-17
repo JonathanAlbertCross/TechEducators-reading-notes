@@ -3,6 +3,7 @@ layout: default
 title: Tech Educators
 ---
 [Week 1](#102)
+
 [Week 2](#201)
 
 # reading-notes 
