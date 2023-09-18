@@ -4,6 +4,8 @@ Take me to:
 
 [Semantic](#markdown-header-Semantic-elements)
 
+[Sup&Sub](#markdown-header-Sup-and-Sub)
+
 ## Semantic elements
 
 1. **Accessibility:** Semantic elements provide a clear and meaningful structure to your web page, making it easier for screen readers and other assistive technologies to interpret and convey content to users with disabilities. This ensures that your website is more inclusive and compliant with accessibility standards.
@@ -59,6 +61,7 @@ Here's an example of how these headings can be used to structure content:
 
 _Using these heading elements helps create a clear and structured hierarchy for your web page's content, making it easier for both users and search engines to understand the organization of information._
 
+## Sup and Sub
 ## What are some uses for the _sup_ and _sub_ elements?
 
 The `<sup>` and `<sub>` elements in HTML are used to format text as superscript and subscript, respectively. Here are some common uses for these elements:
