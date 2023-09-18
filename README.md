@@ -3,9 +3,9 @@ layout: default
 title: Tech Educators
 ---
 
-## Lesson Notes - Table of Contents
+# Lesson Notes - Table of Contents
 
-# Course 102 Reading Notes
+## Course 102 Reading Notes
 
 [Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
 ](#102)
