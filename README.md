@@ -3,7 +3,7 @@ layout: default
 title: Tech Educators
 ---
 
-[![Social banner for jh3y](https://jonathanalbertcross.github.io/SparkJoyFinal/)](https://jhey.dev)
+[![Social banner for JAC](https://jonathanalbertcross.github.io/SparkJoyFinal/)(https://jonathanalbertcross.github.io/SparkJoyFinal/)
 
 # Lesson Notes - Table of Contents
 
