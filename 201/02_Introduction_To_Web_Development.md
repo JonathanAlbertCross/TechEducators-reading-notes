@@ -1,6 +1,7 @@
 # Introduction to HTML
 
 Take me to:
+
 [Semantic](#markdown-header-Semantic-elements)
 
 ## Semantic elements
