@@ -2,11 +2,6 @@
 
 # 201/01 - Setup Developer Toolbelt
 
-
-## Preface
-
-As developers, we're constantly learning, no matter what level you're in. For instance, I don't really take notes super often, but I see that it helps me consolidate what I'm working with. In this case I'm learning how to process information and putting it into my own words. 
-
 ## How HTTP sends data between computers
 
 In the quirky realm of the internet, two playful computers named Alice and Bob found themselves in a rather peculiar situation. Alice, a computer with a penchant for funny cat videos, had stumbled upon an absolute gem and wanted to share it with Bob. But how would she do it? Through the whimsical wonderland of HTTP, of course!
