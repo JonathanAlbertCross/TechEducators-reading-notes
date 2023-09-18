@@ -66,13 +66,13 @@ In summary, HTML, CSS, and JavaScript files are parsed separately by the browser
 
 There are several ways to find images to add to a website while ensuring you have the necessary rights and permissions to use them. Here are some common methods:
 
-### Create Your Own Images:** If you have the skills and equipment, creating your own images is the best way to ensure originality and avoid any copyright issues. You can use a camera or smartphone to capture photos, create custom graphics, or design illustrations using graphic design software.
+1. **Create Your Own Images:** If you have the skills and equipment, creating your own images is the best way to ensure originality and avoid any copyright issues. You can use a camera or smartphone to capture photos, create custom graphics, or design illustrations using graphic design software.
 
-# Stock Photo Websites:** Many websites offer high-quality stock photos and illustrations for free or for a fee. Popular stock photo websites include Shutterstock, Adobe Stock, Getty Images, Unsplash, Pixabay, and Pexels. Be sure to check the licensing terms to understand how you can use the images.
+2. **Stock Photo Websites:** Many websites offer high-quality stock photos and illustrations for free or for a fee. Popular stock photo websites include Shutterstock, Adobe Stock, Getty Images, Unsplash, Pixabay, and Pexels. Be sure to check the licensing terms to understand how you can use the images.
 
-# Creative Commons:** Websites like Flickr and Wikimedia Commons offer images with various Creative Commons licenses. These licenses specify how the images can be used, such as for commercial or non-commercial purposes, with or without attribution. Make sure to follow the terms of the specific license.
+3. **Creative Commons:** Websites like Flickr and Wikimedia Commons offer images with various Creative Commons licenses. These licenses specify how the images can be used, such as for commercial or non-commercial purposes, with or without attribution. Make sure to follow the terms of the specific license.
 
-# Public Domain Resources:** There are websites and databases that provide access to public domain images, which means they are free to use without any restrictions. Websites like Public Domain Pictures and Public Domain Archive are good starting points.
+4. **Public Domain Resources:** There are websites and databases that provide access to public domain images, which means they are free to use without any restrictions. Websites like Public Domain Pictures and Public Domain Archive are good starting points.
 
 5. **Use Free Icon Sets:** If you need icons or small graphics, you can find free icon sets on websites like Iconfinder and Flaticon. Icons are often available in various formats and styles.
 
@@ -88,35 +88,34 @@ There are several ways to find images to add to a website while ensuring you hav
 
 Remember that copyright laws and licensing terms can vary, so it's crucial to respect the rights of image creators and follow usage guidelines. Always attribute and respect the terms of use associated with each image you incorporate into your website to avoid legal issues.
 
-### 1. Downloading the image
-Go to your preferred search engine, and try to look up the image you want. Once you get to that image,
-you right click on it and click 'Save Image As', and store it onto your computer locally.
-
-### 2. Copying the image link as a source.
-When you go to the image, left click on the image, right click the enlarged image and then click 'Open Image in New Tab', and copy the URL link.
 
 ## How to create certain data types in Javascript
 
-You would require a variable with a value.
+In JavaScript, you can create variables to store both strings and numbers. Here's how to create and differentiate between them:
 
-For instance
+**Creating a String:**
+To create a string in JavaScript, you can use single quotes (' '), double quotes (" "), or backticks (``). Here are examples of each:
 
-```js
-
-// this is a string
-let name = 'Demie';
-
-// this is a number
-let age = 24;
-
-/* Do not use var
-var Forbidden = 'Var bad!'
-*/
-
+```javascript
+let strSingle = 'This is a string with single quotes.';
+let strDouble = "This is a string with double quotes.";
+let strBacktick = `This is a string with backticks.`;
 ```
 
-A variable is an identifier which is given a value. Examples are included above.
-Variables are crucial as they allow you to change values throughout your code.
+All three examples above create string variables. You can use any of these methods to create strings in JavaScript. Strings are typically used to store text or a sequence of characters.
+
+**Creating a Number:**
+To create a number in JavaScript, you can simply assign a numerical value to a variable. Numbers can be integers or floating-point values (decimals). Here are examples:
+
+```javascript
+let numInteger = 42;       // Integer
+let numFloat = 3.14;      // Floating-point number
+let numNegative = -10;    // Negative integer
+```
+
+Numbers in JavaScript can represent both whole numbers (integers) and fractional numbers (floats). They are used for mathematical calculations and numeric operations.
+
+It's important to note that JavaScript is a dynamically typed language, which means that variables can change their types. For example, you can assign a number to a variable that previously held a string, and vice versa. JavaScript will automatically convert between types as needed, but it's essential to be aware of the types your variables hold to avoid unexpected behavior in your code.
 
 Word of advice: Do not use `var` to declare a variable. This is because var is `global`, meaning
 that it will work outside of functions. Use `let` instead. 
