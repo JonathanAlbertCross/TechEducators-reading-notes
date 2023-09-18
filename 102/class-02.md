@@ -1,3 +1,5 @@
+[Back to Main Page](https://roguestar112.github.io/reading-notes/)
+
 # What is a Terminal?
 
 A terminal allows you to insert computer commands, such as creating folders and files, moving to folders/directories.
