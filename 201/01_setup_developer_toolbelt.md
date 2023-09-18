@@ -66,7 +66,7 @@ In summary, HTML, CSS, and JavaScript files are parsed separately by the browser
 
 There are several ways to find images to add to a website while ensuring you have the necessary rights and permissions to use them. Here are some common methods:
 
-# Create Your Own Images:** If you have the skills and equipment, creating your own images is the best way to ensure originality and avoid any copyright issues. You can use a camera or smartphone to capture photos, create custom graphics, or design illustrations using graphic design software.
+### Create Your Own Images:** If you have the skills and equipment, creating your own images is the best way to ensure originality and avoid any copyright issues. You can use a camera or smartphone to capture photos, create custom graphics, or design illustrations using graphic design software.
 
 # Stock Photo Websites:** Many websites offer high-quality stock photos and illustrations for free or for a fee. Popular stock photo websites include Shutterstock, Adobe Stock, Getty Images, Unsplash, Pixabay, and Pexels. Be sure to check the licensing terms to understand how you can use the images.
 
