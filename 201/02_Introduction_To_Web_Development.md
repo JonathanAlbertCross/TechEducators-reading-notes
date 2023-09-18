@@ -1,9 +1,9 @@
 # Introduction to HTML
 
 Take me to:
-[Semantic](##Using-semantic-elements-in-our-HTML-is-important-because:)
+[Semantic](#markdown-header-Semantic-elements)
 
-## Using semantic elements in our HTML is important because:
+## Semantic elements
 
 1. **Accessibility:** Semantic elements provide a clear and meaningful structure to your web page, making it easier for screen readers and other assistive technologies to interpret and convey content to users with disabilities. This ensures that your website is more inclusive and compliant with accessibility standards.
 
