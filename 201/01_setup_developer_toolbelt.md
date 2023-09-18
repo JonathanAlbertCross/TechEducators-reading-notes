@@ -1,15 +1,7 @@
 [Back to Main Page]()
 
 # 201/01 - Setup Developer Toolbelt
-<hr>
-<!-- Created by Jonathan -->
-<div style="position: relative; width: 100%;">
-<p style="position: absolute; left: 0;"> Created at 17/09/2023 </p>
-<p style="position: absolute; right: 0;"> Updated at 17/09/2023, 21:05 </p>
 
-</div>
-
-<hr>
 
 ## Preface
 
