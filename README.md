@@ -2,12 +2,16 @@
 layout: default
 title: Tech Educators
 ---
+
+**Lesson Notes - Table of Contents
+
 [Week 1](#102)
 
 - [Class 1](#102/class-01.md)
 - [Class 2](#102/class-02.md)
 
 [Week 2](#201)
+- [Class 1 - Setup Developer Toolbelt](#102/class-02.md)
 
 # reading-notes 
 ## Lab: 01 - Learning Markdown
