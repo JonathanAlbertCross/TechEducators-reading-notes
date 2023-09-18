@@ -55,7 +55,7 @@ Here's an example of how these headings can be used to structure content:
 
 _Using these heading elements helps create a clear and structured hierarchy for your web page's content, making it easier for both users and search engines to understand the organization of information._
 
-## What are some uses for the '<sup>' and '<sub>' elements?
+## What are some uses for the < sup > and < sub > elements?
 
 The `<sup>` and `<sub>` elements in HTML are used to format text as superscript and subscript, respectively. Here are some common uses for these elements:
 
