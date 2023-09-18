@@ -3,8 +3,6 @@ layout: default
 title: Tech Educators
 ---
 
-[![Social banner for JAC](https://jonathanalbertcross.github.io/SparkJoyFinal/)(https://jonathanalbertcross.github.io/SparkJoyFinal/)
-
 # Lesson Notes - Table of Contents
 
 ## Course 102 Reading Notes
