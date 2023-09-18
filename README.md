@@ -4,11 +4,19 @@ title: Tech Educators
 ---
 
 **Lesson Notes - Table of Contents
+*Course 102 Reading Notes
 
-[Week 1](#102)
+[Week 1 - 11/09/2023 to 15/09/2023 (Intro to Software Development)
+](#102)
 
-- [Class 1](#102/class-01.md)
-- [Class 2](#102/class-02.md)
+- [Class 1 - Markdown](#102/class-01.md)
+- [Class 2 - Terminal Commands](#102/class-02.md)
+- [Class 3 - Git Commands](#102/class-03.md)
+- [Class 4 - Revisions and the Cloud](#102/class-04.md)
+- [Class 5 - Structuring with HTML](#102/class-05.md)
+- [Class 6 - CSS Design](#102/class-06.md)
+- [Class 7 - JavaScript](#102/class-07.md)
+- [Class 8 - Operators and Loops](#102/class-08.md)
 
 [Week 2](#201)
 - [Class 1 - Setup Developer Toolbelt](#102/class-02.md)
