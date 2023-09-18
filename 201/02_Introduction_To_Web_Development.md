@@ -1,6 +1,7 @@
 # Introduction to HTML
 
-Take me to [Semantic](##Using-semantic-elements-in-our-HTML-is-important-because:)
+Take me to:
+[Semantic](##Using-semantic-elements-in-our-HTML-is-important-because:)
 
 ## Using semantic elements in our HTML is important because:
 
