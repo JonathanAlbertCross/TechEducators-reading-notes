@@ -62,6 +62,7 @@ Here's an example of how these headings can be used to structure content:
 _Using these heading elements helps create a clear and structured hierarchy for your web page's content, making it easier for both users and search engines to understand the organization of information._
 
 ## Sup and Sub
+
 ## What are some uses for the _sup_ and _sub_ elements?
 
 The `<sup>` and `<sub>` elements in HTML are used to format text as superscript and subscript, respectively. Here are some common uses for these elements:
@@ -86,16 +87,19 @@ The `<sup>` and `<sub>` elements in HTML are used to format text as superscript 
 
 4. **References in Scientific Notation:** In scientific notation, subscripts are used to indicate the exponent of 10. For example, 1.23 x 10<sup>5</sup> can be represented as `1.23 x 10<sup>5</sup>` in HTML.
 
-_Using `<sup>` and `<sub>` elements appropriately helps convey information clearly and accurately, especially in technical and scientific content where precise formatting is essential._ 
+_Using `<sup>` and `<sub>` elements appropriately helps convey information clearly and accurately, especially in technical and scientific content where precise formatting is essential._
 
-When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+## When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 
 When using the `<abbr>` (abbreviation) element in HTML, you should include the `title` attribute to provide the full expansion or explanation of the term or abbreviation. The `title` attribute contains the expanded version of the abbreviation, which is displayed as a tooltip when users hover their mouse pointer over the abbreviated text. This helps improve accessibility and provides additional context for users.
 
 Here's an example of how to use the `<abbr>` element with the `title` attribute:
 
 ```html
-<abbr title="World Wide Web">WWW</abbr> is a system of interlinked hypertext documents.
+<abbr title="World Wide Web">WWW</abbr> is a system of interlinked hypertext
+documents.
 ```
 
 _In this example, when a user hovers over "WWW," a tooltip with the full expansion "World Wide Web" will be displayed, allowing users to understand the meaning of the abbreviation._
+
+# CSS
