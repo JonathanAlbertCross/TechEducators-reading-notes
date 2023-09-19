@@ -22,6 +22,8 @@
 
    - **Unordered List (`<ul>`):** Use an unordered list when the order of items doesn't matter, and you want to present a collection of items without any specific sequence. Unordered lists typically use bullets or other symbols to denote list items.
 
+## CSS - The Box Model
+
 4. **Describe two ways you can change the numbers on list items provided by an ordered list?**
 
    a. **Using CSS:** You can change the appearance of the numbers in ordered lists by using CSS. For example, you can change the color, size, or font of the numbers. Here's an example that changes the color of the numbers to red:
@@ -65,6 +67,10 @@ Now, let's dive into the four parts of an HTML element's box as referred to by t
 4. **Margin:** Margin was the space giver, the buffer between our element and the neighboring elements. It kept the layout organized by creating a gap between our element and the elements around it, ensuring there was no unwanted overlap or clutter.
 
 In the world of web development, Margin and Padding, along with Content and Border, worked together to create harmony and structure in "The Box Model" story. Each had a crucial role to play, and when they collaborated effectively, they produced beautiful and well-organized web layouts for all to enjoy.
+
+## JavaSCript
+
+Arrays. Operators and Expressions. Conditionals. Loops.
 
 1. **What data types can you store inside of an Array?**
 
