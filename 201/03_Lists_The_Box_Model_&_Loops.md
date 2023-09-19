@@ -1,3 +1,5 @@
+# The Minimal theme
+
 # HTML + CSS + JS questions and answers
 
 1. **When should you use an unordered list in your HTML document?**
