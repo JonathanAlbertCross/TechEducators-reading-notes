@@ -1,3 +1,5 @@
+# HTML + CSS + JS questions and answers
+
 1. **When should you use an unordered list in your HTML document?**
 
    You should use an unordered list (HTML `<ul>`) when you want to present a list of items where the order doesn't matter. Unordered lists typically use bullets or other symbols to denote list items, making them suitable for items without a specific sequence or ranking.
