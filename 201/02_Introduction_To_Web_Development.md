@@ -1,4 +1,4 @@
-theme: minima
+
 # Introduction to HTML
 
 Take me to:
