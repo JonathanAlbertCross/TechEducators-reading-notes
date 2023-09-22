@@ -1,3 +1,4 @@
+
 # Different Types of Functions 
 
 JavaScript is a versatile programming language that supports various types of functions. Here are some common types of functions in JavaScript:
