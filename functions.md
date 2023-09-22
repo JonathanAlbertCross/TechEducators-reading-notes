@@ -96,6 +96,8 @@ JavaScript is a versatile programming language that supports various types of fu
 
 These are some of the common types of functions in JavaScript. Each type serves a different purpose and can be used in various programming scenarios.
 
+# For loops in Functions
+
 You can use `for` loops within functions just like you would use them in any other part of your JavaScript code. Functions are blocks of code that can contain various statements, including loops. Here's an example of how you can use a `for` loop inside a function:
 
 ```javascript
@@ -109,7 +111,6 @@ function printNumbers(from, to) {
 printNumbers(1, 5);
 ```
 
-# For loops in Functions
 In this example, we've defined a function called `printNumbers` that takes two parameters (`from` and `to`) and uses a `for` loop to iterate through the numbers from `from` to `to`, printing each number to the console.
 
 Here's a breakdown of the code:
