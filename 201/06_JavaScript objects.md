@@ -64,3 +64,6 @@ JavaScript and the DOM have a close relationship in web development. Here's a br
 4. **Events and Interaction:** JavaScript can listen for and respond to events triggered by user actions (e.g., clicks, keypresses). When an event occurs, JavaScript can use the DOM to make changes to the web page dynamically.
 
 In summary, JavaScript and the DOM work together to make web pages interactive and dynamic. JavaScript provides the scripting capabilities, while the DOM provides the structured representation of the web page's content, allowing JavaScript to interact with and manipulate that content.
+
+## Things I want to know more about
+...
