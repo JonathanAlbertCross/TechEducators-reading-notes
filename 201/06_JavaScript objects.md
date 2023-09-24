@@ -1,5 +1,8 @@
 # JavaScript objects 
 
+**Why this is important to know**
+We have been working with arrays, which helps us malipulate data and this transition to the next topic of objects helps is build on what we've learned so far.
+
 **1. How to Describe an Object to a Non-Technical Friend:**
 Okay, imagine you're a magician, and you've got this magical box. But it's not just any box; it's like Mary Poppins' bag – it can hold all sorts of stuff, and each thing inside has its own name tag. So, you can throw in a tiny elephant, a rainbow, and a talking parrot, and the box keeps them all organized. When you want to play with the elephant, you just say, 'Hey, box, give me the tiny elephant!' and voilà, it hands you the elephant. That's basically what an object is in computer magic – a magical box that holds different things, and you can talk to it to get what you want!" 🎩🪄🐘🌈🦜
 
