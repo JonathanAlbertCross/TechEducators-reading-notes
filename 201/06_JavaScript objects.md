@@ -70,3 +70,27 @@ In summary, JavaScript and the DOM work together to make web pages interactive a
 
 ## Things I want to know more about
 ...
+## Methods
+
+In JavaScript, a method is a function that is associated with an object. Methods are essentially functions that are defined as properties of an object and can be called on that object to perform some action or computation related to the object's data. Methods allow you to encapsulate behavior within an object, making it a fundamental concept in object-oriented programming.
+
+Here's a basic example of how you can define and use a method in JavaScript:
+
+```javascript
+// Define an object with a method
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+  fullName: function () {
+    return this.firstName + " " + this.lastName;
+  },
+};
+
+// Call the method on the object
+const fullName = person.fullName();
+console.log(fullName); // Outputs "John Doe"
+```
+
+In this example, `fullName` is a method of the `person` object. It's defined as a function within the object and uses the `this` keyword to access properties of the object itself. When you call `person.fullName()`, it returns the full name of the person by combining the `firstName` and `lastName` properties.
+
+Methods can also take parameters, just like regular functions, and they can modify the object's properties or perform various other actions depending on their purpose. They are an essential part of working with JavaScript objects and allow you to create reusable and encapsulated behavior for your data structures.
