@@ -92,3 +92,5 @@ In summary, event bubbling goes from the target to the outer elements, while eve
 https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types
 
 https://developer.mozilla.org/en-US/docs/Web/Events
+
+## Things I want to know more about
