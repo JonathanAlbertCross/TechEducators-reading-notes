@@ -135,3 +135,15 @@ Understanding these terms helps in harnessing the full power of CSS Grid Layout,
    - Unlike CSS or JavaScript solutions, `srcset` provides a straightforward HTML-based approach to responsive images without the need for additional scripting or styling.
 
 Using `srcset` and `sizes` attributes in the `<img>` element provides a native, efficient, and automatic way to handle responsive images, ensuring a smoother experience for users across various devices.
+
+# to read 
+## Flex
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
+## Quick VS code (code)
+https://docs.emmet.io/cheat-sheet/
+
+## CSS
+https://tailwindcss.com/
+
